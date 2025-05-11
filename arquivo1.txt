@@ -1,2 +1,6 @@
 ola git
+<<<<<<< HEAD
 bilu bilu bilu
+=======
+editado pelo github
+>>>>>>> 17a0c60d806d12789735a5fa6ce3a7107e57346a
